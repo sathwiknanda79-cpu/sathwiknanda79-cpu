@@ -15,7 +15,7 @@
 I'm a 4th year B.Tech CSE Cybersecurity student at GITAM University, batch 2023 - 2027. I am interested in cybersecurity, full-stack development, AI, and building practical projects that solve real problems.
 
 - Currently working on: Cybersecurity mini projects, full-stack apps, and AI-based tools
-- Recent project: RAG chatbot
+- Recent project: AEGIS OSINT, RAG chatbot
 - Learning: Secure coding, networking, machine learning, and backend development
 - Interested in: Web security, AI applications, automation, and open-source development
 - Goal: To grow as a developer with strong cybersecurity fundamentals
